@@ -1,0 +1,196 @@
+{
+  "memes": [
+    {
+      "id": "0",
+      "type": "warMemes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOb2pvURo51GqOyTrb8cyb9-vHQh2NbC_q9g&usqp=CAU",
+      "capture": "Ну звісно ж розумно:)"
+    },
+    {
+      "id": "1",
+      "type": "warMemes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobAeIJWFQc2SQ-sgMk0D-DSsH2IbxH56PJA&usqp=CAU",
+      "capture": "Зеленський їде звичайним українським селом"
+    },
+    {
+      "id": "2",
+      "type": "warMemes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0u-H4d042R74UqUgE1HuKWqWMsPGZDmBZg&usqp=CAU",
+      "capture": "Танка на збір урожаю бабці, щоб не мучилась"
+    },
+    {
+      "id": "3",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2022/01/kursovu-vchora.jpg",
+      "capture": "Я, коли дізнався..."
+    },
+    {
+      "id": "4",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/laboratorni.jpg",
+      "capture": "Ну що поробиш, на різних місцях ще стоять"
+    },
+    {
+      "id": "5",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/11/studenty-trijechka.jpg",
+      "capture": "Студент на перездачі курсової виглядає саме так"
+    },
+    {
+      "id": "6",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2020/09/ne-bude-na-parah-djakuju.jpg",
+      "capture": "Автовиправлення клавіатури;)"
+    },
+    {
+      "id": "7",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/06/studenty-shkoljari.jpg",
+      "capture": ":("
+    },
+    {
+      "id": "8",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/04/ispytu-druga-grupa.jpg",
+      "capture": "Інтерв'ю будь-ласка"
+    },
+    {
+      "id": "9",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/04/mozhna-trijechku.jpg",
+      "capture": "І таке буває)"
+    },
+    {
+      "id": "10",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/02/bethoven-kursovu.jpg",
+      "capture": "Автор даної курсової задумовувався над цим питанням:)"
+    },
+    {
+      "id": "11",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/01/po-studentsky.jpg",
+      "capture": "А як же після сесії закрию сесію?"
+    },
+    {
+      "id": "12",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2018/12/za-try-zdaty-kursovu.jpg",
+      "capture": "І додаєш в базу даних мемчики з програмування"
+    },
+    {
+      "id": "13",
+      "type": "studentsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2018/07/shody-kursova.jpg",
+      "capture": "Ще ж трішки потримайся:("
+    },
+    {
+      "id": "14",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/09/ja-pojasnyty-instagrami.jpg",
+      "capture": "Друже, так дл цього ж програмування і створювалося..."
+    },
+    {
+      "id": "15",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/08/haker-babusi-telefon.jpg",
+      "capture": "Хацкер"
+    },
+    {
+      "id": "16",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2017/07/programist-adresa.jpg",
+      "capture": "Спочатку не поняв, а потім як поняв...."
+    },
+    {
+      "id": "17",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/04/avto-ctrl-z.jpg",
+      "capture": "Alt + F4 або Ctrl + Alt + Del"
+    },
+    {
+      "id": "18",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2019/01/krapku-z-komoju-propustyv.jpg",
+      "capture": "Говорять, що Вася із 2019 року ще шукає, де він її пропустив"
+    },
+    {
+      "id": "19",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2017/09/8-trembit.jpg",
+      "capture": "Ну логічно ж, правда?"
+    },
+    {
+      "id": "20",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2018/06/programuvannja-pratsuja-chogo.jpg",
+      "capture": "Буваєєєє"
+    },
+    {
+      "id": "21",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2018/05/dlja-chogo-shmatok-kodu.jpg",
+      "capture": "І як з'ясувалося, це був коментар!"
+    },
+    {
+      "id": "22",
+      "type": "programmingMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2017/12/ranok-hakera.jpg",
+      "capture": "Є сенс такого буття?"
+    },
+    {
+      "id": "24",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2022/02/vash-budynok.jpg",
+      "capture": "Киці такі кицііі"
+    },
+    {
+      "id": "25",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2022/02/ptashky-o.jpg",
+      "capture": "Ноу, пліз, ноуууу"
+    },
+    {
+      "id": "26",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2022/02/duzhe-holodna.jpg",
+      "capture": "рідка вода"
+    },
+    {
+      "id": "27",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2022/01/mrnjau-konferentsija.jpg",
+      "capture": "Яке ж воно класнюююче"
+    },
+    {
+      "id": "28",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/koly-divchyna-selfi.jpg",
+      "capture": "Бідний:("
+    },
+    {
+      "id": "29",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/gonytvu-za-mrijeju.jpg",
+      "capture": "І мені би так"
+    },
+    {
+      "id": "30",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/prygnichujesh-narod.jpg",
+      "capture": "Упс, отакої"
+    },
+    {
+      "id": "31",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/kin-zhorstoke.jpg",
+      "capture": "Так так так"
+    },
+    {
+      "id": "32",
+      "type": "petsMemes",
+      "picture": "https://secureservercdn.net/160.153.138.243/fb9.cf9.myftpupload.com/wp-content/uploads/2021/12/kyts-kyts-kyts.jpg",
+      "capture": "Киця кицюня"
+    }
+  ]
+}
